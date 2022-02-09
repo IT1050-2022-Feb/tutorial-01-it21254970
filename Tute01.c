@@ -16,5 +16,5 @@ int main() {
   avg = sum/2.0;
   printf("Avarage is %.2f",avg);
   return 0;
-}
+} //end of the program
 
